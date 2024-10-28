@@ -1,3 +1,5 @@
+# Coqui TTS Voice Cloning API
+
 Coqui TTS Voice Cloning API
 An API for performing high-quality voice cloning and text-to-speech synthesis using Coqui TTS models. This repository provides an interface to easily clone voices and generate synthetic speech from text inputs, leveraging Coqui's robust, open-source TTS framework. Designed for developers, researchers, and enthusiasts, this API enables flexible and scalable integration for voice synthesis projects.
 
